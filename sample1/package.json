@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-sample1",
+  "version": "1.0.0",
+  "description": "nodejs sample",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "me",
+  "license": "ASL",
+  "dependencies": {
+    "express": "4.14.x"
+  }
